@@ -10,6 +10,9 @@ h1 {color: #524a4e;
   padding-top: 100px;
 }
 
+h2 {
+  font-weight: bold;
+}
 thead {
   text-align: center;
 }
@@ -25,12 +28,11 @@ hr {
 h3 {
   color: red;
   font-style: italic;
-  padding-top: 100px;
 }
 
 .myPic {
   border-radius: 50%;
-  width: 75%;
+  width: 50%;
   height: auto;
 }
 .mouse2 {
